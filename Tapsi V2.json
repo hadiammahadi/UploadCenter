@@ -39,7 +39,7 @@
       "id": "background",
       "type": "background",
       "minzoom": 0,
-      "paint": {"background-color": "rgba(237, 239, 240, 1)"}
+      "paint": {"background-color": "rgba(242, 244, 245, 1)"}
     },
     {
       "id": "landcover_grass",
@@ -48,7 +48,7 @@
       "source-layer": "landcover",
       "minzoom": 10,
       "filter": ["==", "class", "grass"],
-      "paint": {"fill-color": "rgba(179, 228, 152, 1)", "fill-opacity": 1}
+      "paint": {"fill-color": "rgba(201, 238, 171, 1)", "fill-opacity": 1}
     },
     {
       "id": "landcover_wood",
